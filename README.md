@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 3 problems · 0 labs · 1 math
+**5** solved · 4 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-29 | [solution](problems/0334-cholesky-decomposition) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-29 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-29 | [solution](problems/0201-qr-decomposition) |
 
 ## Math
