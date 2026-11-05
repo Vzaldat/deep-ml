@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:35:54.424Z",
+  "generated_at": "2026-11-05T05:39:16.379Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "last_pushed_at": "2026-11-02T06:35:54.314Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-11-05T05:39:14.323Z",
+      "last_pushed_at": "2026-11-05T05:39:14.323Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
