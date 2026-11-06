@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:39:16.379Z",
+  "generated_at": "2026-11-06T09:00:47.950Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -128,6 +128,19 @@
       "last_pushed_at": "2026-11-05T05:39:14.323Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:326": {
+      "kind": "problem",
+      "id": "326",
+      "title": "MMLU Letter-Matching Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/326",
+      "path": "problems/0326-mmlu-letter-matching-evaluation",
+      "first_solved_at": "2026-11-06T09:00:47.052Z",
+      "last_pushed_at": "2026-11-06T09:00:47.052Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }

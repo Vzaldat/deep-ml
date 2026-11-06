@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 9 problems · 0 labs · 1 math
+**11** solved · 10 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-29 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-29 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-11-06 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-11-05 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-29 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-29 | [solution](problems/0201-qr-decomposition) |
