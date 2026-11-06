@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:00:47.950Z",
+  "generated_at": "2026-11-06T11:42:59.500Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -141,6 +141,19 @@
       "last_pushed_at": "2026-11-06T09:00:47.052Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:318": {
+      "kind": "problem",
+      "id": "318",
+      "title": "Boxed Answer Extraction for Math Benchmarks",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/318",
+      "path": "problems/0318-boxed-answer-extraction-for-math-benchmarks",
+      "first_solved_at": "2026-11-06T11:42:57.929Z",
+      "last_pushed_at": "2026-11-06T11:42:57.929Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
