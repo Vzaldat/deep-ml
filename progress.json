@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:15:11.577Z",
+  "generated_at": "2026-11-10T04:22:42.197Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -167,6 +167,19 @@
       "last_pushed_at": "2026-11-08T05:15:10.324Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:324": {
+      "kind": "problem",
+      "id": "324",
+      "title": "Code Execution Verifier for Programming Benchmarks",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/324",
+      "path": "problems/0324-code-execution-verifier-for-programming-benchmarks",
+      "first_solved_at": "2026-11-10T04:22:41.945Z",
+      "last_pushed_at": "2026-11-10T04:22:41.945Z",
+      "language": "python",
+      "lines": 89
     }
   }
 }

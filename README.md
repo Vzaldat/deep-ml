@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 12 problems · 0 labs · 1 math
+**14** solved · 13 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-11-02 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-11-06 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-29 | [solution](problems/0334-cholesky-decomposition) |
+| [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-11-10 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-29 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-29 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
