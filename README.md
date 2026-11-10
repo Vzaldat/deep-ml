@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 16 problems · 0 labs · 1 math
+**18** solved · 17 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-11-05 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-11-08 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-29 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Codeforces Elo Estimation from Sampled Submissions](https://www.deep-ml.com/problems/1548) | hard | 2026-11-10 | [solution](problems/1548-codeforces-elo-estimation-from-sampled-submissions) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-29 | [solution](problems/0201-qr-decomposition) |
 
 ## Math
