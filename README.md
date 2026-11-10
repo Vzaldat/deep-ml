@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 14 problems · 0 labs · 1 math
+**16** solved · 15 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-11-10 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-10-29 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
+| [Macro-Average Accuracy Across Benchmark Subtasks](https://www.deep-ml.com/problems/797) | easy | 2026-11-10 | [solution](problems/0797-macro-average-accuracy-across-benchmark-subtasks) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-11-02 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-11-06 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-29 | [solution](problems/0334-cholesky-decomposition) |
