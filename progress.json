@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:21:08.742Z",
+  "generated_at": "2026-11-11T04:46:40.184Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -245,6 +245,19 @@
       "last_pushed_at": "2026-11-11T04:21:07.665Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:152": {
+      "kind": "problem",
+      "id": "152",
+      "title": "Implementing ROUGE Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/152",
+      "path": "problems/0152-implementing-rouge-score",
+      "first_solved_at": "2026-11-11T04:46:39.274Z",
+      "last_pushed_at": "2026-11-11T04:46:39.274Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
