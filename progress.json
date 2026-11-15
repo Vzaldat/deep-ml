@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T03:21:30.606Z",
+  "generated_at": "2026-11-15T04:04:55.497Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -271,6 +271,19 @@
       "last_pushed_at": "2026-11-15T03:21:28.958Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:1073": {
+      "kind": "problem",
+      "id": "1073",
+      "title": "Compute Three Correlation Coefficients Between Score Lists",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1073",
+      "path": "problems/1073-compute-three-correlation-coefficients-between-score-lists",
+      "first_solved_at": "2026-11-15T04:04:53.989Z",
+      "last_pushed_at": "2026-11-15T04:04:53.989Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
