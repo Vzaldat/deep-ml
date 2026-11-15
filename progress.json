@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:04:55.497Z",
+  "generated_at": "2026-11-15T04:19:37.433Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -284,6 +284,19 @@
       "last_pushed_at": "2026-11-15T04:04:53.989Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:317": {
+      "kind": "problem",
+      "id": "317",
+      "title": "Rubric-Based LLM Judge Evaluation",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/317",
+      "path": "problems/0317-rubric-based-llm-judge-evaluation",
+      "first_solved_at": "2026-11-15T04:19:36.414Z",
+      "last_pushed_at": "2026-11-15T04:19:36.414Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
