@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:46:40.184Z",
+  "generated_at": "2026-11-15T03:21:30.606Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -258,6 +258,19 @@
       "last_pushed_at": "2026-11-11T04:46:39.274Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:787": {
+      "kind": "problem",
+      "id": "787",
+      "title": "Wu-Palmer Similarity Score for Open-ended QA Evaluation",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/787",
+      "path": "problems/0787-wu-palmer-similarity-score-for-open-ended-qa-evaluation",
+      "first_solved_at": "2026-11-15T03:21:28.958Z",
+      "last_pushed_at": "2026-11-15T03:21:28.958Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
