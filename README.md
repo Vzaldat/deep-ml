@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 23 problems · 0 labs · 1 math
+**25** solved · 24 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-11-10 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-10-29 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
 | [Macro-Average Accuracy Across Benchmark Subtasks](https://www.deep-ml.com/problems/797) | easy | 2026-11-10 | [solution](problems/0797-macro-average-accuracy-across-benchmark-subtasks) |
+| [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-11-18 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-11-02 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Wu-Palmer Similarity Score for Open-ended QA Evaluation](https://www.deep-ml.com/problems/787) | easy | 2026-11-15 | [solution](problems/0787-wu-palmer-similarity-score-for-open-ended-qa-evaluation) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-11-11 | [solution](problems/0321-bleu-score-for-text-generation) |
