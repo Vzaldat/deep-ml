@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 22 problems · 0 labs · 1 math
+**24** solved · 23 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-11-08 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-11-15 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-29 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Verifiable Instruction Constraint Checker](https://www.deep-ml.com/problems/796) | medium | 2026-11-18 | [solution](problems/0796-verifiable-instruction-constraint-checker) |
 | [Codeforces Elo Estimation from Sampled Submissions](https://www.deep-ml.com/problems/1548) | hard | 2026-11-10 | [solution](problems/1548-codeforces-elo-estimation-from-sampled-submissions) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-29 | [solution](problems/0201-qr-decomposition) |
 

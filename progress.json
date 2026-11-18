@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:19:37.433Z",
+  "generated_at": "2026-11-18T14:13:32.377Z",
   "items": {
     "problem:344": {
       "kind": "problem",
@@ -297,6 +297,19 @@
       "last_pushed_at": "2026-11-15T04:19:36.414Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:796": {
+      "kind": "problem",
+      "id": "796",
+      "title": "Verifiable Instruction Constraint Checker",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/796",
+      "path": "problems/0796-verifiable-instruction-constraint-checker",
+      "first_solved_at": "2026-11-18T14:13:27.697Z",
+      "last_pushed_at": "2026-11-18T14:13:27.697Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }
